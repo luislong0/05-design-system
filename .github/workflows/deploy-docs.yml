@@ -22,7 +22,6 @@ jobs:
       - run: npm run build
         env:
           TURBO_TOKEN: CwZSr8vwn9grSttjReLJOmWV
-          TURBO_TEAM: vercel.com/
 
       - name: Deploy storybook
         working-directory: ./packages/docs
