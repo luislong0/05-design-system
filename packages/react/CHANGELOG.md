@@ -1,5 +1,11 @@
 # @longo-ignite-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- Add Tooltip Component
+
 ## 3.0.0
 
 ### Major Changes
